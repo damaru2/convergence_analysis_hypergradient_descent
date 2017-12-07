@@ -1,7 +1,10 @@
 <br />
 <br />
 <br />
-Master Thesis submitted for the course in Mathematics and Foundations of Computer Science. Academic year 2016/2017.
+[This](https://damaru2.github.io/convergence_analysis_hypergradient_descent/dissertation_hypergradients.pdf) is a Master Thesis submitted for the course in Mathematics and Foundations of Computer Science. Academic year 2016/2017.
+
+
+
 
 ### Abstract
 
